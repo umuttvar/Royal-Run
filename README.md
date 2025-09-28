@@ -41,11 +41,11 @@
 ### Player & Effects
 | Description | Screenshot |
 |-------------|------------|
-| **Player Movement** | When game starts, the player begins to run. | ![Start](Assets/Screenshots/start.png) |
-| **Stumble Animation** | When the player hits an obstacle (rock, chair, desk, etc.), their movement speed is reduced and a "stumble" animation is triggered. | ![Stumble Animation](Assets/Screenshots/stumbleanimation.png) |
-| **Falling Obstacles** | Obstacles are spawned using Unity’s physics system. If the player collides with these obstacles, the player’s movement speed is temporarily reduced and they lose points. | ![Falling Obstacles](Assets/Screenshots/fallingobstacles.png) |
-| **Speed Up** | When the player collects an apple, it temporarily increases their movement speed. | ![Speed Up](Assets/Screenshots/speedup.png) |
-| **Checkpoint** | When the player reaches a checkpoint, they gain 5 seconds of extra time. | ![Checkpoint](Assets/Screenshots/+5seconds.png) |
+| **Player Movement** | When game starts, the player begins to run.  ![Start](Assets/Screenshots/start.png) |
+| **Stumble Animation** | When the player hits an obstacle (rock, chair, desk, etc.), their movement speed is reduced and a "stumble" animation is triggered.  ![Stumble Animation](Assets/Screenshots/stumbleanimation.png) |
+| **Falling Obstacles** | Obstacles are spawned using Unity’s physics system. If the player collides with these obstacles, the player’s movement speed is temporarily reduced and they lose points.  ![Falling Obstacles](Assets/Screenshots/fallingobstacles.png) |
+| **Speed Up** | When the player collects an apple, it temporarily increases their movement speed.  ![Speed Up](Assets/Screenshots/speedup.png) |
+| **Checkpoint** | When the player reaches a checkpoint, they gain 5 seconds of extra time.  ![Checkpoint](Assets/Screenshots/+5seconds.png) |
 
 
 
