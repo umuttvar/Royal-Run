@@ -23,8 +23,6 @@
 - Reach +5 second zones to extend your survival time.
 - When speeding up: camera zooms out and particles appear  
 - When slowing down: camera zooms in
-- Assets/Screenshots/stumbleanimation.png
-
 
 ## What I Learned
 
